@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+
+#hero {
+    background-color: darkblue;
+    color: white;
+}
+
+#projects {
+    background-color: darkslateblue;
+}
+
+#bio {
+    background-color: darkslategray;
+}
+
+footer {
+    background-color: deepskyblue;
+}
